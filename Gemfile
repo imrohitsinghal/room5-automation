@@ -1,0 +1,12 @@
+source 'http://rubygems.org'
+
+gem 'rake'
+gem 'bundler'
+gem 'rspec'
+gem 'cucumber'
+gem 'watir-webdriver'
+gem 'pry'
+gem 'pry-nav'
+gem 'activesupport'
+gem 'rmagick'
+gem 'nakal'
